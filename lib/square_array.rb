@@ -4,5 +4,4 @@ def square_array(array)
   while count < array.length do
     new_array.push(array[count].Math.sqrt)
     count++
-  new_array
 end
